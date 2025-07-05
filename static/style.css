@@ -1,0 +1,13 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    color: azure;
+}
+
+.nav-link {
+    color:white;
+}
+.nav-link:hover{
+    color: brown;
+    text-shadow: 1px 1px 50xp  white;
+}
